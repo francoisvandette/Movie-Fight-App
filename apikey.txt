@@ -1,0 +1,2 @@
+apikey: fd0a6d96
+sample link: http://www.omdbapi.com/?i=tt3896198&apikey=fd0a6d96
